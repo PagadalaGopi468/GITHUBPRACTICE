@@ -1,13 +1,12 @@
-package sample;
+package Demo;
 
 import org.testng.annotations.Test;
 
 public class AutomationTest {
 
-
 	@Test
-	public void Test1()
+	public void Tester()
 	{
-		System.out.println("This is a Sample Test");
+		System.out.println("This is Sample Test");
 	}
 }
