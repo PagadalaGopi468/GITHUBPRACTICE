@@ -2,7 +2,8 @@ package sample;
 
 import org.testng.annotations.Test;
 
-public class A {
+public class AutomationTest {
+
 
 	@Test
 	public void Test1()
