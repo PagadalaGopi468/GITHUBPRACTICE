@@ -9,4 +9,10 @@ public class Test2 {
 	{
 		System.out.println("M2 method");
 	}
+	
+	@Test
+	public void M4()
+	{
+		System.out.println("M4 method");
+	}
 }
